@@ -86,7 +86,7 @@ int main()
     A.append(10);
     A.append(15);
     A.append(-661);
-    A.append(0301);
+    A.append(301);
     A.append(61565);
     A.append(-561);
     A.split(B,C);
